@@ -1,0 +1,9 @@
+Pillow
+pystray
+pywin32
+schedule
+pyperclip
+pywin32-ctypes
+pythonnet
+argparse
+pyinstaller
